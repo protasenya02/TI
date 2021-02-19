@@ -2,4 +2,4 @@
 **Лабораторрные работы**
 
 ## Простые шифры
-> [№1 — простые шифры](https://github.com/protasenya02/TI/tree/main/lab%201)
+> [лаба 1](https://github.com/protasenya02/TI/tree/main/lab%201)
